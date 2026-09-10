@@ -381,3 +381,6 @@ ROOT
 ```
 
 **Result: Successful Local Privilege Escalation**
+## Evidence
+
+![Nmap interactive root shell proof](metasploitable_nmap_interactive_root_shell.png)
